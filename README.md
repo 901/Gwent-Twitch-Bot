@@ -3,9 +3,13 @@ This is a simple twitch chat/irc bot written in python.
 
 # Requirements
 As this twitchbot is written in python, python is needed to execute the program. I recommend to use anaconda [https://www.continuum.io/downloads] as python program. This twitchbot is written in python 2.7, so if you download it, I recommend this version of the software.
+<b>MacOS/Linux: Once you have python, you can run the bot when required with "python program.py" in a Terminal/Shell while in the gwent-twitch-bot folder</b>
+<b>Windows: You can use Anaconda, as linked above, to run the program</b>
 
 # Connect to your channel
 To connect to your channel you need to set the configuration to connect to your server, and channel. Open up `src/config/config.py`. There are the settings to connect to your channel. You can also enable debug mode, so it gives some extra information into the console [recommended]. Also, it will save a version of your console to a .txt file by default. You can disable this with the `save_log` parameter, as wel as the save directory.
+<b>You can also look at gwentbot2.png for a visual example.<\b>
+
 
 # Adding new commands
 You're going to need to know basic Python if you want to add your own commands. Open up `src/config/config_commands.py`. There are examples of pre-made commands in there as examples, and some gambling games. The cooldown parameter is the amount of times inbetween the command can be used in seconds, if you don't want a limit, don't put in the cooldown parameter, or set it to 0.
