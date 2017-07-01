@@ -1,0 +1,31 @@
+[18:35] :tmi.twitch.tv 001 gwent_bot :Welcome, GLHF!
+[18:35] :tmi.twitch.tv 002 gwent_bot :Your host is tmi.twitch.tv
+[18:35] :tmi.twitch.tv 003 gwent_bot :This server is rather new
+[18:35] :tmi.twitch.tv 004 gwent_bot :-
+[18:35] :tmi.twitch.tv 375 gwent_bot :-
+[18:35] :tmi.twitch.tv 372 gwent_bot :You are in a maze of twisty passages, all alike.
+[18:35] :tmi.twitch.tv 376 gwent_bot :>
+[18:35] :gwent_bot!gwent_bot@gwent_bot.tmi.twitch.tv JOIN #boozooface
+[18:35] :gwent_bot.tmi.twitch.tv 353 gwent_bot = #boozooface :gwent_bot
+[18:35] :gwent_bot.tmi.twitch.tv 366 gwent_bot #boozooface :End of /NAMES list
+[18:35] gwent_bot: Hello!!
+[18:35] 
+boozooface: !findcard Geral
+[18:35] -- Command is not on cooldown.
+[18:35] gwent_bot: Geralt - Gold - Neutral | Str:10 - Agile | Deploy, Brave: Strengthen self by 3. :) Geralt: Aard - Gold - Neutral | Str:8 - Agile | Deploy: Push 5 adjacent Enemies to the row above them and Damage them by 2. :) Geralt: Igni - Gold - Neutral | Str:4 - Agile | Deploy: Destroyall the Highest Units on the opposite row if that row totals 20 or more Power. :) 
+[18:35] 
+boozooface: !findcard Restore
+[18:35] -- Command is not on cooldown.
+[18:35] gwent_bot: Restore - Silver - Skellige | Return a Unit from your Graveyard to your Hand, then Discard a card from your Hand. :) 
+[18:36] 
+boozooface: !findcard John
+[18:36] -- Command is not on cooldown.
+[18:36] gwent_bot: John Calveit - Leader - Nilfgaard | Spawn: John Calveit Deploy: Look at the top 3 cards in your Deck. Play 1. The others remain on top. :) John Natalis - Gold - Northern Realms | Str:8 - Agile | Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2. :) Johnny - Silver - Neutral | Str:7 - Siege | Deploy: Discard a card in your Hand (can be Gold), then createa copy in your Hand of a card of the same color in your opponents Deck. :) 
+[18:37] 
+boozooface: !findcard Ballista
+[18:37] -- Command is not on cooldown.
+[18:37] gwent_bot: Ballista - Bronze - Northern Realms | Str:5 - Agile | Deploy:Damage an Enemy and all Enemies with the same Power by 1 (ignoring Armor). Fresh Crew: Repeat the Deploy ability. :) 
+[18:37] 
+boozooface: !findcard Vanhe
+[18:37] -- Command is not on cooldown.
+[18:37] gwent_bot: Vanhemar - Silver - Nilfgaard | Str:3 - Siege | Deploy: SpawnBiting Frost, Clear Skies or Stammelfords Tremors. :) 

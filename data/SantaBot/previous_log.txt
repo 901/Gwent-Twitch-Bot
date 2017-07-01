@@ -1,0 +1,15 @@
+[18:32] :tmi.twitch.tv 001 gwent_bot :Welcome, GLHF!
+[18:32] :tmi.twitch.tv 002 gwent_bot :Your host is tmi.twitch.tv
+[18:32] :tmi.twitch.tv 003 gwent_bot :This server is rather new
+[18:32] :tmi.twitch.tv 004 gwent_bot :-
+[18:32] :tmi.twitch.tv 375 gwent_bot :-
+[18:32] :tmi.twitch.tv 372 gwent_bot :You are in a maze of twisty passages, all alike.
+[18:32] :tmi.twitch.tv 376 gwent_bot :>
+[18:32] :gwent_bot!gwent_bot@gwent_bot.tmi.twitch.tv JOIN #boozooface
+[18:32] :gwent_bot.tmi.twitch.tv 353 gwent_bot = #boozooface :gwent_bot
+[18:32] :gwent_bot.tmi.twitch.tv 366 gwent_bot #boozooface :End of /NAMES list
+[18:32] gwent_bot: Hello!!
+[18:32] 
+boozooface: !findcard Geral
+[18:32] -- Command is not on cooldown.
+[18:32] gwent_bot: Geralt - Gold - Neutral | Str:10 - Agile | Deploy, Brave: Strengthen self by 3. :) Geralt: Aard - Gold - Neutral | Str:8 - Agile | Deploy: Push 5 adjacent Enemies to the row above them and Damage them by 2. :) Geralt: Igni - Gold - Neutral | Str:4 - Agile | Deploy: Destroyall the Highest Units on the opposite row if that row totals 20 or more Power. :) 
