@@ -8,7 +8,7 @@ As this twitchbot is written in python, python is needed to execute the program.
 
 # Connect to your channel
 To connect to your channel you need to set the configuration to connect to your server, and channel. Open up `src/config/config.py`. There are the settings to connect to your channel. You can also enable debug mode, so it gives some extra information into the console [recommended]. Also, it will save a version of your console to a .txt file by default. You can disable this with the `save_log` parameter, as wel as the save directory.
-<b>You can also look at gwentbot2.png for a visual example.<\b>
+<b>You can also look at gwentbot2.png for a visual example.</b>
 
 
 # Adding new commands
